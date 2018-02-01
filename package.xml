@@ -1,6 +1,6 @@
 <?xml version="1.0"?>
 <package>
-  <name>dishes</name>
+  <name>dish_models</name>
   <version>1.0.0</version>
   <description>
     This package contains some dish meshes and wrapper URDFs.
